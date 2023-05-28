@@ -1,0 +1,5 @@
+MY_TWITTER_BEARER = ""
+api_key = ""
+api_key_secret = ""
+access_token = ""
+access_token_secret = ""
